@@ -2,7 +2,7 @@
 
 Welcome to the Python Beginners Guide! 🐍
 
-If you're just starting your journey into the world of Python programming, you're in the right place. This README will provide you with a clear understanding of some essential data types in Python, making your learning experience engaging and straightforward.
+If you're starting your journey into the world of Python programming, you're in the right place. This README will provide you with a clear understanding of some essential data types in Python, making your learning experience engaging and straightforward.
 
 ## Understanding Python Data Types
 
