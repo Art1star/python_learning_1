@@ -90,9 +90,10 @@ Loops allow you to repeat a block of code multiple times. Here are some types of
     Code to execute for each value of i in the specified range
 #### Nested Loops
 You can use loops within loops to perform more complex tasks, such as iterating through a grid or multidimensional data.
+
 `for i in range(rows):
     for j in range(columns):`
-        # Code to execute for each combination of i and j
+     Code to execute for each combination of i and j
 
 ### Conclusion
 Python's control structures and loops are powerful tools for building dynamic and responsive programs. As you continue learning, experiment with these concepts to create more sophisticated and interactive Python applications.
